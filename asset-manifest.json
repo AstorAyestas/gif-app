@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/gif-app/static/css/main.b18a601d.chunk.css",
-    "main.js": "/gif-app/static/js/main.636acd47.chunk.js",
-    "main.js.map": "/gif-app/static/js/main.636acd47.chunk.js.map",
-    "runtime-main.js": "/gif-app/static/js/runtime-main.ea05aabc.js",
-    "runtime-main.js.map": "/gif-app/static/js/runtime-main.ea05aabc.js.map",
-    "static/js/2.8fad0625.chunk.js": "/gif-app/static/js/2.8fad0625.chunk.js",
-    "static/js/2.8fad0625.chunk.js.map": "/gif-app/static/js/2.8fad0625.chunk.js.map",
+    "main.css": "/gif-app/static/css/main.475f630c.chunk.css",
+    "main.js": "/gif-app/static/js/main.1c92c149.chunk.js",
+    "main.js.map": "/gif-app/static/js/main.1c92c149.chunk.js.map",
+    "runtime-main.js": "/gif-app/static/js/runtime-main.d3d70606.js",
+    "runtime-main.js.map": "/gif-app/static/js/runtime-main.d3d70606.js.map",
+    "static/js/2.4b680456.chunk.js": "/gif-app/static/js/2.4b680456.chunk.js",
+    "static/js/2.4b680456.chunk.js.map": "/gif-app/static/js/2.4b680456.chunk.js.map",
+    "static/js/3.699a1206.chunk.js": "/gif-app/static/js/3.699a1206.chunk.js",
+    "static/js/3.699a1206.chunk.js.map": "/gif-app/static/js/3.699a1206.chunk.js.map",
+    "static/css/4.16ba558b.chunk.css": "/gif-app/static/css/4.16ba558b.chunk.css",
+    "static/js/4.2454fade.chunk.js": "/gif-app/static/js/4.2454fade.chunk.js",
+    "static/js/4.2454fade.chunk.js.map": "/gif-app/static/js/4.2454fade.chunk.js.map",
+    "static/js/5.cba7929b.chunk.js": "/gif-app/static/js/5.cba7929b.chunk.js",
+    "static/js/5.cba7929b.chunk.js.map": "/gif-app/static/js/5.cba7929b.chunk.js.map",
+    "static/js/6.5df14dfb.chunk.js": "/gif-app/static/js/6.5df14dfb.chunk.js",
+    "static/js/6.5df14dfb.chunk.js.map": "/gif-app/static/js/6.5df14dfb.chunk.js.map",
     "index.html": "/gif-app/index.html",
-    "static/css/main.b18a601d.chunk.css.map": "/gif-app/static/css/main.b18a601d.chunk.css.map",
-    "static/js/2.8fad0625.chunk.js.LICENSE.txt": "/gif-app/static/js/2.8fad0625.chunk.js.LICENSE.txt"
+    "static/css/4.16ba558b.chunk.css.map": "/gif-app/static/css/4.16ba558b.chunk.css.map",
+    "static/css/main.475f630c.chunk.css.map": "/gif-app/static/css/main.475f630c.chunk.css.map",
+    "static/js/2.4b680456.chunk.js.LICENSE.txt": "/gif-app/static/js/2.4b680456.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea05aabc.js",
-    "static/js/2.8fad0625.chunk.js",
-    "static/css/main.b18a601d.chunk.css",
-    "static/js/main.636acd47.chunk.js"
+    "static/js/runtime-main.d3d70606.js",
+    "static/js/2.4b680456.chunk.js",
+    "static/css/main.475f630c.chunk.css",
+    "static/js/main.1c92c149.chunk.js"
   ]
 }

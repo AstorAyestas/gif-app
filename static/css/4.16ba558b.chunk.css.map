@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Header.css"],"names":[],"mappings":"AAAA,SACI,aACJ,CACA,UACI,aACJ,CACA,QACI,aACJ","file":"4.16ba558b.chunk.css","sourcesContent":[".twitter{\n    color:#1DA1F2;\n}\n.linkedin{\n    color:#0A66C2;\n}\n.github{\n    color:#181717;\n}"]}

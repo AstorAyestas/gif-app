@@ -1,0 +1,2 @@
+(this["webpackJsonpgif-app"]=this["webpackJsonpgif-app"]||[]).push([[0],{4:function(e,n,t){"use strict";t.r(n);var c=t(0),i=t.n(c),s=t(3),a=t.n(s),r=(t(9),t(1)),d=i.a.lazy((function(){return t.e(3).then(t.bind(null,11))}));a.a.render(Object(r.jsx)(i.a.StrictMode,{children:Object(r.jsx)(c.Suspense,{fallback:Object(r.jsx)("div",{children:"Loading..."}),children:Object(r.jsx)(d,{})})}),document.getElementById("root"))},9:function(e,n,t){}},[[4,1,2]]]);
+//# sourceMappingURL=main.1c92c149.chunk.js.map
