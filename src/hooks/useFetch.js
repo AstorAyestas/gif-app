@@ -5,7 +5,6 @@ const useFetch = (url) => {
     const [loading, setLoading] = useState(true)
     useEffect(() => {
         setTimeout(() => {
-            // console.log("URL: ", url)
             fetch(url)
                 .then(res => res.json())
                 .then(({ data }) => { setData(data); setLoading(false) })

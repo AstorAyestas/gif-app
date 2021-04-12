@@ -4,13 +4,11 @@ const Header = () => {
     return (
         <header className="sticky top-0 flex items-center justify-between h-16 px-2 bg-gray-100 shadow-md opacity-75">
             <div className="flex items-center space-x-2">
-                <a href="#">
-                    <svg className="w-6 h-6 text-gray-700 hover:text-gray-800" xmlns="http://www.w3.org/2000/svg" fill="none"
-                        viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
-                            d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
-                    </svg>
-                </a>
+                <svg className="w-6 h-6 text-gray-700 hover:text-gray-800" xmlns="http://www.w3.org/2000/svg" fill="none"
+                    viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
+                        d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
+                </svg>
             </div>
             <nav>
                 <ul className="flex space-x-2">
